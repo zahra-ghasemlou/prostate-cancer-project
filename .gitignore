@@ -1,0 +1,7 @@
+# Ignore large data files
+*.txt
+*.gz
+Data/  
+*.pkl  
+__pycache__/
+*.ipynb_checkpoints/
